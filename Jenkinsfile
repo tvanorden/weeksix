@@ -1,5 +1,4 @@
-e
-dTemplate(containers: [
+podTemplate(containers: [
 containerTemplate(
 name: 'gradle',
 image: 'gradle:6.3-jdk14',
@@ -22,4 +21,5 @@ echo "I am the ${env.BRANCH_NAME} branch"
 }
 }
 }
-}}
+}
+}
