@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@tvanorden 
-tvanorden
-/
-week6
-Public
-forked from Yaash19/week6
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-week6/Jenkinsfile
-@tvanorden
-tvanorden Update Jenkinsfile
-Latest commit 62fc685 5 minutes ago
- History
- 2 contributors
-@Yaash19@tvanorden
-107 lines (106 sloc)  2.92 KB
-   
 podTemplate(yaml: '''
 apiVersion: v1
 kind: Pod
